@@ -155,5 +155,5 @@ def read_numbers(path):
     finally:
         print("Done reading")
 
-
-print(read_numbers("numbers.txt"))
+result = read_numbers("numbers.txt")
+print(result)
