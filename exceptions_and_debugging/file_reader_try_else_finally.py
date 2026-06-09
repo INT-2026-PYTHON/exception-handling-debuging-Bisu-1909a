@@ -155,5 +155,5 @@ def read_numbers(path):
     finally:
         print("Done reading")
 
-result = read_numbers("numbers.txt")
+result = read_numbers("exceptions_and_debugging/numbers.txt")
 print(result)
