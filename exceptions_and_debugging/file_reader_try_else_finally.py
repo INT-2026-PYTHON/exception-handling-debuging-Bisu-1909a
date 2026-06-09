@@ -124,8 +124,7 @@ Explanation:
 =================================================
 
 """
-import os
-print("Current working directory:", os.getcwd())
+
 
 def read_numbers(path):
     lines_read = 0
